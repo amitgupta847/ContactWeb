@@ -77,8 +77,8 @@ C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\bin\Micr
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\obj\Debug\ContactWeb.dll
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\obj\Debug\ContactWeb.pdb
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\obj\Debug\ContactWeb.Migrations.InitialCreate.resources
 C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csproj.GenerateResource.Cache
+C:\Users\guptam00\Desktop\Udemy\Microsoft Courses\ContactWeb\ContactWeb\obj\Debug\ContactWeb.csprojResolveAssemblyReference.cache

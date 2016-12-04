@@ -27,9 +27,11 @@
     <add key="UnobtrusiveJavaScriptEnabled" value="true" />
   </appSettings>
   <connectionStrings>
-    <add xdt:Transform="Replace" name="DefaultConnection"  connectionString="Server=ecb5e327-e3fb-4fc2-ae01-a6d200df219d.sqlserver.sequelizer.com; Database=dbecb5e327e3fb4fc2ae01a6d200df219d; User Id=swvntpdgdqgrynsg; Password=ep2ZZscArrxTjodjBTtuBEsLcpScbSLRbn8s4CUzZxoDmwf4HfmnnxVF5oWKH8zF;" providerName="System.Data.SqlClient" />
+    <add name="DefaultConnection"  xdt:Transform="Replace" 
+         connectionString="Server=ecb5e327-e3fb-4fc2-ae01-a6d200df219d.sqlserver.sequelizer.com; Database=dbecb5e327e3fb4fc2ae01a6d200df219d; User Id=swvntpdgdqgrynsg; Password=ep2ZZscArrxTjodjBTtuBEsLcpScbSLRbn8s4CUzZxoDmwf4HfmnnxVF5oWKH8zF;" providerName="System.Data.SqlClient" />
     
-    <add xdt:Transform="Replace" name="ContactWebContext"  connectionString="Server=ecb5e327-e3fb-4fc2-ae01-a6d200df219d.sqlserver.sequelizer.com; Database=dbecb5e327e3fb4fc2ae01a6d200df219d; User Id=swvntpdgdqgrynsg; Password=ep2ZZscArrxTjodjBTtuBEsLcpScbSLRbn8s4CUzZxoDmwf4HfmnnxVF5oWKH8zF;" providerName="System.Data.SqlClient" />
+    <add name="ContactWebContext"  xdt:Transform="Replace" 
+         connectionString="Server=ecb5e327-e3fb-4fc2-ae01-a6d200df219d.sqlserver.sequelizer.com; Database=dbecb5e327e3fb4fc2ae01a6d200df219d; User Id=swvntpdgdqgrynsg; Password=ep2ZZscArrxTjodjBTtuBEsLcpScbSLRbn8s4CUzZxoDmwf4HfmnnxVF5oWKH8zF;" providerName="System.Data.SqlClient" />
   </connectionStrings>
   <system.web>
     <compilation xdt:Transform="RemoveAttributes(debug)" />
